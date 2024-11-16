@@ -6,7 +6,7 @@
    ```bash
    cd server
    ```
-2. Add `firebase-adminsdk.json` file.
+2. Add `firebase-adminsdk-todolist.json` file.
 3. Install the dependencies:
    ```bash
    npm install
@@ -20,7 +20,7 @@
 
 1. Navigate to the client folder:
    ```bash
-   cd sclient
+   cd client
    ```
 2. Install the dependencies:
    ```bash
